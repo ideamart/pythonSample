@@ -27,8 +27,8 @@ you can install flask, requests,and JSON via PIP
     {
       "message": "Welcome To Track Sri Lanka Postal Tracking Codes\r\n\r\nEnter Tracking\/Barcode of your EMS\/Parcel\/Document",
       "ussdOperation": "mt-cont",
-      "applicationId": "APP_005649",
-      "password": "9c2d1698c413000d88e3a086f3e313e1",
+      "applicationId": "APP_AAAAA",
+      "password": "xxxxxxxxxxxxx",
       "version": "1.0",
       "sessionId": "140801020715000",
       "destinationAddress": "tel:B%3C4pbgsmEfcKETtTtCwleOTKc4HUXWhO0mkzDaMvEvxY60zs2AAGFY576MQHPFh2YUe",
@@ -43,7 +43,7 @@ you can install flask, requests,and JSON via PIP
       "message": "TRACK RF007870236Lk",
       "requestId": "071408111102268264",
       "encoding": "0",
-      "applicationId": "APP_005649",
+      "applicationId": "APP_AAAAA",
       "sourceAddress": "tel:B%3C4Nw4BKrMN5isVODdpmlqlHhYHpWQIgZqISKHl6cvfqocwK6Pfbpm3FrRylnai2st2",
       "version": "1.0"
     }
@@ -53,7 +53,7 @@ you can install flask, requests,and JSON via PIP
     {
       "message": "Tracking Detail for : \r\nRF007870236LK\r\nClass:LETTERS (LC\/AO)\r\nFrom:SRI LANKA\r\nDestination:AUSTRALIA\r\nState:Dispatch\/Transit (60%)\r\nLast:LOCAL(LKCMBA)\r\n2014-08-02 10:27:34",
       "applicationId": "APP_005649",
-      "password": "ddddddddddddddddd",
+      "password": "xxxxxxxxxxxxx",
       "version": "1.0",
       "deliveryStatusRequest": 1,
       "destinationAddresses": [
